@@ -6,3 +6,8 @@
     background: -webkit-linear-gradient(to right, #24243e, #302b63, #0f0c29);  /* Chrome 10-25, Safari 5.1-6 */
     background: linear-gradient(to right, #24243e, #302b63, #0f0c29); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
     }
+
+.NavB {
+    background: rgb(48,43,99);
+    background: linear-gradient(90deg, rgba(48,43,99,1) 0%, rgba(36,36,62,1) 47%, rgba(48,43,99,1) 100%);
+}
