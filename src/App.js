@@ -3,8 +3,6 @@ import Cards from "./Components/Cards";
 import "./App.css";
 import NavBar from "./Components/NavBar";
 
-// alejandromarn outlook com
-
 function App() {
   return (
     <div className="NavB">
